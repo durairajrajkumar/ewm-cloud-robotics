@@ -32,7 +32,7 @@
         "express-basic-auth": ">=1.1.7",
         "path": ">=0.12.7",
         "uuid": ">=3.3.2",
-        "winston": ">=3.1.0",
+        "winston": ">=3.3.4",
         "ws": ">=6.1.0"
     },
     "devDependencies": {
