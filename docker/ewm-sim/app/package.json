@@ -27,7 +27,7 @@
         "chrome-launcher": ">=0.10.5",
         "chrome-remote-interface": ">=0.26.1",
         "compression": ">=1.7.2",
-        "express": ">=4.16.2",
+        "express": ">=4.21.1",
         "request": "",
         "express-basic-auth": ">=1.1.7",
         "path": ">=0.12.7",
